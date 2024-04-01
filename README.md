@@ -1,4 +1,4 @@
 <div align="center" dir="auto" >
-    <img src="res/3.png" width="70%" alt="✨">
+    <img src="res/1.png" width="100%" alt="✨">
 </div>
 
